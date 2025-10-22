@@ -115,10 +115,8 @@
     @apply border-border outline-ring/50;
   }
   body {
-
     font-size: 16px;
-    
+
     @apply bg-background text-foreground;
   }
 }
-
